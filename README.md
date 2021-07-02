@@ -33,4 +33,4 @@
 
 The Url of the new pages will be following this format:
 
-* https://rpr-rpr.github.io/id/[URL].html
+* https://rpr-rpr.github.io/id/[Name].html
