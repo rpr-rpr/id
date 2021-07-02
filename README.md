@@ -6,7 +6,8 @@
 
 ## Step 2 - Copy the code in the new page
 * Copy/Paste the following code in the code textarea
-'''
+
+```html
 <html>
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -20,7 +21,7 @@
 <meta http-equiv="refresh" content="1; URL='Add link here'" />
 </head>
 </html>
-'''
+```
 
 ## Step 3 - Change the link of the HTML redirect
 * Go to line X and replace the "Add link here" by the url of the page you want to redirect to
